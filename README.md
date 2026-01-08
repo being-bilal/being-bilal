@@ -15,6 +15,4 @@
 ## Studying
 ![Learning](https://go-skill-icons.vercel.app/api/icons?i=sklearn,matplotlib&theme=dark&perline=9&titles=true)
 
-<!--
-     I also have my own blog with useful information, check it out ^^
---!>
+[![GitHub Streak](https://streak-stats.demolab.com?user=being-bill&theme=transparent)](https://git.io/streak-stats)
